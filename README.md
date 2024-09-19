@@ -2,6 +2,7 @@
 
 # LAB | Temporary Tables, Views and CTEs
 
+
 <details>
   <summary>
    <h2>Learning Goals</h2>
